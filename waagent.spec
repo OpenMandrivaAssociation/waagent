@@ -15,6 +15,7 @@ Requires:	grep
 Requires:	iproute2
 BuildRequires:	python
 BuildRequires:	python%{pyver}dist(setuptools)
+BuildRequires:	python%{pyver}dist(distro)
 BuildArch:	noarch
 
 %description
