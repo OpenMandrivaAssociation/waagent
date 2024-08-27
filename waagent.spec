@@ -1,5 +1,5 @@
 Name:		waagent
-Version:	2.9.1.1
+Version:	2.11.1.4
 Release:	1
 URL:		https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-linux
 Source0:	https://github.com/Azure/WALinuxAgent/archive/refs/tags/v%{version}.tar.gz
