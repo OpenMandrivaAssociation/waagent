@@ -1,6 +1,6 @@
 Name:		waagent
 Version:	2.12.0.4
-Release:	2
+Release:	3
 URL:		https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-linux
 Source0:	https://github.com/Azure/WALinuxAgent/archive/refs/tags/v%{version}.tar.gz
 Patch0:		https://github.com/berolinux/WALinuxAgent/commit/84bfbe4b36eb4564a99c705b68f817f668b83546.patch
